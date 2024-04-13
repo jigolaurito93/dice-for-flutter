@@ -1,16 +1,19 @@
-# dice_flutter
+# Dice Rolling App
+This is a simple Flutter app that simulates rolling two dice. Every time you tap on the image of either of the two dice, the app generates a random number for each die and displays the corresponding dice images.
 
-A new Flutter project.
+## Features
+- Displays two dice images side by side.
+- Tap on either dice image to roll the dice and generate random numbers.
+- The dice images change to reflect the randomly generated numbers.
 
 ## Getting Started
+To run this app on your local machine, follow these steps:
+Ensure you have Flutter installed. If not, follow the installation instructions.
 
-This project is a starting point for a Flutter application.
+1. Clone this repository to your local machine.
+2. Navigate to the project directory in your terminal.
+3. Run flutter pub get to install the dependencies.
+4. Run flutter run to launch the app on your connected device or emulator.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Contributing
+Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
